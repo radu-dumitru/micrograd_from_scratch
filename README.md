@@ -1,4 +1,4 @@
-[Youtube video](https://www.youtube.com/watch?v=VMj-3S1tku0&ab_channel=AndrejKarpathy)
+[Andrej Karpathy's Youtube video](https://www.youtube.com/watch?v=VMj-3S1tku0&ab_channel=AndrejKarpathy)
 
 [micrograd on github](https://github.com/karpathy/micrograd)
 
